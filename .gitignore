@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+# example dataset runthrough
+ds002168*
+tmp
