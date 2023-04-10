@@ -133,3 +133,6 @@ dmypy.json
 # example dataset runthrough
 ds002168*
 tmp
+
+sourcedata*
+brainstat_tutorial_output*
